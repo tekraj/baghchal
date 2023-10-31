@@ -5,4 +5,4 @@ Bagh-Chal is a strategic, two-player board game that originated in Nepal. The ga
 
 This project was  build for [Community Challenge hackathon](https://developercircles2019.devpost.com) by Facebook Developers Community and submitted as a [baghchal-nepali-board-game](https://devpost.com/software/baghchal-nepali-board-game).
 
-We moved Forked this Repo and started  development on this repository https://github.com/sumn2u/baghchal
+We  Forked this Repo and started  development on this repository https://github.com/sumn2u/baghchal
